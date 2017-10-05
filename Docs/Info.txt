@@ -1,1 +1,3 @@
-Here should be some information!
+Hello git!
+This is just random stuff
+but that is fine!
