@@ -1,10 +1,9 @@
-#error Hello ;)
-#error it works!
 
-#ifdef DEBUG
-#error Debug message!
-#endif // DEBUG
+#include <stdio.h>
 
-
-// we should put a main functon here, really!
-// I totally agree, working on it!
+int
+main(int argc, const char *argv[])
+{
+    printf("Hello git!\n");
+    return 0;
+}
