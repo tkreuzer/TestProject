@@ -7,3 +7,4 @@
 
 
 // we should put a main functon here, really!
+// I totally agree, working on it!
