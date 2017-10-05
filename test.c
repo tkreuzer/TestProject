@@ -1,10 +1,9 @@
 
-#ifdef DEBUG
-#error Debug message!
-#endif // DEBUG
+#include <stdio.h>
 
 int
 main(int argc, const char *argv[])
 {
+    printf("Hello git!\n");
     return 0;
 }
